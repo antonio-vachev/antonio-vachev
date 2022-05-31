@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonio-vachev
+## Hi, I’m @antonio-vachev
 - 👀 I’m interested in automation for the AEC industry, data science, generative art.
 - 🌱 I’m currently learning Python-3.x and DynamoDS
 - 📫 How to reach me: https://www.linkedin.com/in/antonio-vachev-4020a6121/
